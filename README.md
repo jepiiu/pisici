@@ -170,7 +170,7 @@
     <h1>Rase de pisici</h1>
     <p>Pisicile sunt animale fascinante, cu o diversitate impresionantă de rase. Unele sunt pufoase și aristocratice, altele energice și jucăușe. Iată zece dintre cele mai cunoscute rase de pisici, fiecare cu farmecul său unic.</p>
 
-    <!-- Pisici -->
+    
     <div class="cat-card" id="persana">
         <img src="https://fera.ro/images/companies/1/BLOG/kot%20perski%203.jpg?1533043631503" alt="Pisica persană" onclick="openLightbox(this)">
         <h2>1. Persana – regina blănii luxoase</h2>
